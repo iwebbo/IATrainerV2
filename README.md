@@ -29,6 +29,14 @@ Launch the Docker compose build:
 docker-compose.exe up -d --build
 ```
 
+### 🔧 Browse IT
+
+Launch the Docker compose build:
+```
+http://localhost:5000
+```
+
+
 
 ### 🔧 IATrainer - Starting
 ![image](https://github.com/user-attachments/assets/6be7b207-5881-4b18-b5fb-439bb3c05b44)
