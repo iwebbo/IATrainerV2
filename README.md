@@ -20,24 +20,22 @@ Follow the steps regarding installation:
 ```
 git clone https://github.com/iwebbo/IATrainer.git
 cd IATrainer
-
 ```
 
 ### 🔧 Launch IT with Docker
 
 Launch the Docker compose build:
 ```
-
 docker-compose.exe up -d --build
-
 ```
 
 
 ### 🔧 IATrainer - Starting
-![image](https://github.com/user-attachments/assets/6ede9615-723d-4476-876b-dc6804c73ce4)
+![image](https://github.com/user-attachments/assets/6be7b207-5881-4b18-b5fb-439bb3c05b44)
 
-### 🔧 IATrainer - Example of research on Wikipedia 
-![image](https://github.com/user-attachments/assets/dea499a3-4ccb-4593-98e6-70ce6ea3d0e8)
+### 🔧 IATrainer - Results & Showing file and Download the fils (Json)
+![image](https://github.com/user-attachments/assets/9aafb093-f798-4297-8216-092f139bf8ae)
 
-### 🔧 IATrainer - Example of research with LangChain format for a LLM
-![image](https://github.com/user-attachments/assets/18180e43-028c-41ad-95c3-5b890d3e3fc5)
+### 🔧 IATrainer - Create a keyword list request 
+![image](https://github.com/user-attachments/assets/ab7161d9-357c-497c-b05e-0e09c5834118)
+
