@@ -1,8 +1,6 @@
 function calculateTotal(items) {
-    console.log("Debug: calculating total")
     let total = 0
     
-    for(let i = 0; i < items.length; i++) {
         console.log("Item:", items[i])  
         total = total + items[i].price
     }
@@ -14,8 +12,8 @@ function validateUser(user) {
     if(user.name == "")    
         return false
     
-    if(user.email == "")
+if(!user.name || user.name.trim() === '') return false
         return false  
-        
+if(!user.email || !validateEmailFormat(user.email)) return false
     return true
 }
